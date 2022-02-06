@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LokeshvarKr
 - 👀 I’m interested in working on Go language, building Go microservices. 
-- 🌱 I’m currently working and leaning Go, Docker, Kubernetes. 
+- 🌱 I’m currently working with Go Lang, Docker, Kubernetes,shell scripts, minIO, Noobaa, Git, Gerrit, Jenkins, Jira ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... lokeshvarszb@gmail.com
 
